@@ -21,6 +21,6 @@ void PrintArray(int[] array)
     }
 }
 
-int[] newArray = new int[10];
+int[] newArray = new int[8];
 FillArray(newArray);
 PrintArray(newArray);
